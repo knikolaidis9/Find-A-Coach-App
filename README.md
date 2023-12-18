@@ -7,9 +7,9 @@ Request Management: Coaches can view incoming requests from users seeking coachi
 Coach Directory: Accessible list of coaches available for users seeking guidance.
 
 ## 🛠️ Technologies Used ##
-Vue.js: A progressive JavaScript framework for building user interfaces.
-Nuxt.js: A framework based on Vue.js that aids in creating server-side rendered applications.
-Firebase: A comprehensive platform providing various services like authentication, real-time database, and hosting.
+* Vue.js: A progressive JavaScript framework for building user interfaces.
+* Nuxt.js: A framework based on Vue.js that aids in creating server-side rendered applications.
+* Firebase: A comprehensive platform providing various services like authentication, real-time database, and hosting.
 
 ## 🚀 Getting Started ##
 ### Requirments
