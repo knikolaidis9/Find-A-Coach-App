@@ -2,9 +2,9 @@
 This application is designed to connect users with coaches using Vue.js, Nuxt.js, and Firebase. Coaches can authenticate themselves to view incoming requests and interact with other coaches within the platform.
 
 ## ✨ Features ##
-Authentication: Coaches can sign in to access their personalized dashboard.
-Request Management: Coaches can view incoming requests from users seeking coaching services.
-Coach Directory: Accessible list of coaches available for users seeking guidance.
+* Authentication: Coaches can sign in to access their personalized dashboard.
+* Request Management: Coaches can view incoming requests from users seeking coaching services.
+* Coach Directory: Accessible list of coaches available for users seeking guidance.
 
 ## 🛠️ Technologies Used ##
 * Vue.js: A progressive JavaScript framework for building user interfaces.
